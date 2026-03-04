@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/Soju06/codex-lb/compare/v1.1.1...v1.1.2) (2026-03-04)
+
+
+### Bug Fixes
+
+* **app-header:** apply desktop nav pill classes to NavLink ([#133](https://github.com/Soju06/codex-lb/issues/133)) ([c6b801e](https://github.com/Soju06/codex-lb/commit/c6b801e3e5c8ce90326f6c145c8914d1f036fe0e))
+
 ## [1.1.1](https://github.com/Soju06/codex-lb/compare/v1.1.0...v1.1.1) (2026-03-03)
 
 
